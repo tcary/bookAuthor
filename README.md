@@ -1,5 +1,7 @@
 # bookAuthor
 
+This is a REACT.js app where you create your own reading list, where you have the title of the book, synopsis, and it's author. Easy to interract with and go back to see the details for each book that you have read or wish to read.
+
 Available Scripts
 In the project directory, you can run:
 
